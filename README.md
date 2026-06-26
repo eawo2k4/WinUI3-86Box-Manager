@@ -18,9 +18,12 @@ A modern, sleek virtual machine manager for 86Box, built from the ground up usin
 ### Installation & Run
 1. Download the latest release.
 2. Extract the files to your preferred directory.
-3. Place your 86Box `roms` folder into the application directory.
-4. Launch the manager and start setting up your virtual machines!
 
 ## 🛠️ Built With
 * C#
 * WinUI 3 / Windows App SDK
+---
+
+### ⚖️ Legal Disclaimer
+* **86Box:** This project is an independent, open-source frontend manager and is not affiliated with, authorized, maintained, or endorsed by the official 86Box development team. All product names, logos, brands, and trademarks belong to their respective owners.
+* **ROMs & Copyright:** This manager does not package, distribute, or provide any system ROMs, BIOS files, or copyrighted software. Users must provide their own legally sourced files to utilize the emulator.
