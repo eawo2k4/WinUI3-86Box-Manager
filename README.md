@@ -1,6 +1,6 @@
 # WinUI3-86Box-Manager
 
-# 86Box Manager - Wizard Edition
+# 86Box Manager - WINUI3
 
 A modern, sleek virtual machine manager for 86Box, built from the ground up using C# and WinUI 3. The Wizard Edition brings a refined user interface and streamlined workflow to your retro computing and emulation experience.
 
